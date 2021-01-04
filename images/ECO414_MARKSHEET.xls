@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9036</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="NSU - SIS">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="34" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="64.8" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:AutoFitWidth="0" ss:Width="94.8"/>
+   <Column ss:AutoFitWidth="0" ss:Width="172.2"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">North South University -Fall 2020</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Student ID</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quiz 1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mid 1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mid 2+Final</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Grade</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CGPA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">TGPA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String"> 1020589020</Data></Cell>
+    <Cell><Data ss:Type="String">Anindya Jagati Ayan  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String"> 1420804020</Data></Cell>
+    <Cell><Data ss:Type="String">Kaneez Afroz  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String"> 1510173030</Data></Cell>
+    <Cell><Data ss:Type="String">Imtiaz Kadir  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4</Data></Cell>
+    <Cell><Data ss:Type="String"> 1511793030</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Mokhlasur Hasan  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String"> 1520128020</Data></Cell>
+    <Cell><Data ss:Type="String">Mehedi Hasan Bipul  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.6</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell><Data ss:Type="String"> 1521669030</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Abdullah Al Mamoon  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7</Data></Cell>
+    <Cell><Data ss:Type="String"> 1611281020</Data></Cell>
+    <Cell><Data ss:Type="String">Jobayed Hossain  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9.1999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8</Data></Cell>
+    <Cell><Data ss:Type="String"> 1612497630</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Ariful Haque Suvo  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9</Data></Cell>
+    <Cell><Data ss:Type="String"> 1620146020</Data></Cell>
+    <Cell><Data ss:Type="String">Tanzina Sabrin Prova  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.4</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String"> 1620980020</Data></Cell>
+    <Cell><Data ss:Type="String">Suraiya Nusrat  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">11</Data></Cell>
+    <Cell><Data ss:Type="String"> 1631004020</Data></Cell>
+    <Cell><Data ss:Type="String">Saeida Sultana  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">12</Data></Cell>
+    <Cell><Data ss:Type="String"> 1711300030</Data></Cell>
+    <Cell><Data ss:Type="String">Sharmi Saha  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="String"> 1711305020</Data></Cell>
+    <Cell><Data ss:Type="String">Tanzila Hasin  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">14</Data></Cell>
+    <Cell><Data ss:Type="String"> 1711657030</Data></Cell>
+    <Cell><Data ss:Type="String">Mimousa Tasbeeh  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15</Data></Cell>
+    <Cell><Data ss:Type="String"> 1712094020</Data></Cell>
+    <Cell><Data ss:Type="String">Foisal  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="String"> 1712711020</Data></Cell>
+    <Cell><Data ss:Type="String">Fardeen Ahmed  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">27.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">17</Data></Cell>
+    <Cell><Data ss:Type="String"> 1713099620</Data></Cell>
+    <Cell><Data ss:Type="String">Zeenat Amin  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.6</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">18</Data></Cell>
+    <Cell><Data ss:Type="String"> 1721308020</Data></Cell>
+    <Cell><Data ss:Type="String">Riyan Arefin  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="String"> 1722088620</Data></Cell>
+    <Cell><Data ss:Type="String">Nahiyan Saiyara Tahira  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String"> 1722359620</Data></Cell>
+    <Cell><Data ss:Type="String">Afra Nawar  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">26.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">21</Data></Cell>
+    <Cell><Data ss:Type="String"> 1731788620</Data></Cell>
+    <Cell><Data ss:Type="String">Fahmid Wasim Ahmed  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">22</Data></Cell>
+    <Cell><Data ss:Type="String"> 1731864620</Data></Cell>
+    <Cell><Data ss:Type="String">Dayeem Hassan  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">23</Data></Cell>
+    <Cell><Data ss:Type="String"> 1811245020</Data></Cell>
+    <Cell><Data ss:Type="String">Raisa Rahman  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9.4</Data></Cell>
+    <Cell><Data ss:Type="Number">27.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">24</Data></Cell>
+    <Cell><Data ss:Type="String"> 1811475020</Data></Cell>
+    <Cell><Data ss:Type="String">Faiza Tanaz Ahsan  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">25</Data></Cell>
+    <Cell><Data ss:Type="String"> 1811826020</Data></Cell>
+    <Cell><Data ss:Type="String">Nishat Tasnim  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">26</Data></Cell>
+    <Cell><Data ss:Type="String"> 1812242620</Data></Cell>
+    <Cell><Data ss:Type="String">Ifazul Hoque  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">27</Data></Cell>
+    <Cell><Data ss:Type="String"> 1812477020</Data></Cell>
+    <Cell><Data ss:Type="String">Adreeza Nawar Kabir  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">28</Data></Cell>
+    <Cell><Data ss:Type="String"> 1812965020</Data></Cell>
+    <Cell><Data ss:Type="String">Mohammed Tasnim Sifat  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.6</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">29</Data></Cell>
+    <Cell><Data ss:Type="String"> 1813271620</Data></Cell>
+    <Cell><Data ss:Type="String">Jannatul Akter Liza  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">26.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String"> 1813446020</Data></Cell>
+    <Cell><Data ss:Type="String">Raisa Tasnia  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">31</Data></Cell>
+    <Cell><Data ss:Type="String"> 1831040020</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Shahriar Mahmud Mobin  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">8.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">32</Data></Cell>
+    <Cell><Data ss:Type="String"> 1831050020</Data></Cell>
+    <Cell><Data ss:Type="String">Mehadi Hasan  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
